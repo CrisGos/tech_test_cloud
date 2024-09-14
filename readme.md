@@ -4,6 +4,9 @@
 
 Esta aplicación registra las entregas de pedidos en tiempo real y muestra métricas como cantidad de entregas por repartidor y productos más vendidos.
 
+## Nube
+http://tech-test-mazio.s3-website.us-east-2.amazonaws.com
+
 ## Instalación
 
 1. Clonar el repositorio.
